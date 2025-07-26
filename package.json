@@ -3,10 +3,10 @@
   "displayName": "far-theme",
   "description": "Color theme inspired by Far Manager",
   "publisher": "ilukashin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url:": "git+https://github.com/ilukashin/vscode-far-theme.git"
+    "url:": "https://github.com/ilukashin/vscode-far-theme.git"
   },
   "engines": {
     "vscode": "^1.102.0"
