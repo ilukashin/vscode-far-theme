@@ -1,6 +1,6 @@
 # far-theme
 
-![preview.png](https://github.com/ilukashin/vscode-far-theme/blob/main/preview.jpg?raw=true)
+![preview.png](https://github.com/ilukashin/vscode-far-theme/blob/main/preview.png?raw=true)
 
 Inspired by the [Far Manager](https://www.farmanager.com).
 
